@@ -1,6 +1,6 @@
 import './App.css'
 import MyComponent from './components/MyComponent'
-import OtherComponent from './components/OtherComponent'
+import OtherComponent from "./components/OtherComponent"
 
 function App() {
   return (
